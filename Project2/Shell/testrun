@@ -1,0 +1,6 @@
+clear
+make
+echo 
+echo
+
+./Flopshell d
